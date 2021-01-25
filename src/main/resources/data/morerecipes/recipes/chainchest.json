@@ -1,0 +1,39 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"group":"chainarmor",
+	"pattern":[
+		"1 3",
+		"456",
+		"789"
+	],
+	"key":{
+		"1":{
+			"item":"minecraft:chain"
+		},
+		"3":{
+			"item":"minecraft:chain"
+		},
+		"4":{
+			"item":"minecraft:chain"
+		},
+		"5":{
+			"item":"minecraft:chain"
+		},
+		"6":{
+			"item":"minecraft:chain"
+		},
+		"7":{
+			"item":"minecraft:chain"
+		},
+		"8":{
+			"item":"minecraft:chain"
+		},
+		"9":{
+			"item":"minecraft:chain"
+		}
+	},
+	"result":{
+		"item":"minecraft:chainmail_chestplate",
+		"count":1
+	}
+}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "epicgaming",
+  "id": "morerecipes",
   "version": "${version}",
   "name": "morerecipes",
   "description": "adds recipes to items you cant craft but you can get from chests etc",
@@ -8,19 +8,22 @@
     "clumxdd"
   ],
   "contributors": [],
-  "contact": {},
+  "contact": {
+    "homepage": "https://github.com/clummmm/VanillaRecipes",
+    "sources": "https://github.com/clummmm/VanillaRecipes"
+  },
   "license": "MIT",
-  "icon": "assets/epicgaming/icon.png",
+  "icon": "assets/morerecipes/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.clum.morerecipes.morerecipes"
+      "morerecipes.morerecipes"
     ],
     "client": [],
     "server": []
   },
   "mixins": [
-    "epicgaming.mixins.json"
+    "morerecipes.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.11.1",

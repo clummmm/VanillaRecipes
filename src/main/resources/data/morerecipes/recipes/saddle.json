@@ -1,0 +1,36 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"group":"trash",
+	"pattern":[
+		"123",
+		"4 6",
+		"7 9"
+	],
+	"key":{
+		"1":{
+			"item":"minecraft:leather"
+		},
+		"2":{
+			"item":"minecraft:leather"
+		},
+		"3":{
+			"item":"minecraft:leather"
+		},
+		"4":{
+			"item":"minecraft:leather"
+		},
+		"6":{
+			"item":"minecraft:leather"
+		},
+		"7":{
+			"item":"minecraft:tripwire_hook"
+		},
+		"9":{
+			"item":"minecraft:tripwire_hook"
+		}
+	},
+	"result":{
+		"item":"minecraft:saddle",
+		"count":1
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"group":"trash",
+	"pattern":[
+		"1 3",
+		"456",
+		"7 9"
+	],
+	"key":{
+		"1":{
+			"item":"minecraft:iron_ingot"
+		},
+		"3":{
+			"item":"minecraft:iron_ingot"
+		},
+		"4":{
+			"item":"minecraft:iron_ingot"
+		},
+		"5":{
+			"item":"minecraft:iron_ingot"
+		},
+		"6":{
+			"item":"minecraft:iron_ingot"
+		},
+		"7":{
+			"item":"minecraft:iron_ingot"
+		},
+		"9":{
+			"item":"minecraft:iron_ingot"
+		}
+	},
+	"result":{
+		"item":"minecraft:iron_horse_armor",
+		"count":1
+	}
+}
