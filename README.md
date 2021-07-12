@@ -1,4 +1,6 @@
-# VanillaRecipes
+## THE PROJECT IS CURRENTLY ABANDONED I HAVE PLANS TO UPDATE THIS
+
+## VanillaRecipes
 
 VanillaRecipes is a fabric mod for 1.16.4/1.16.5 that brings/adds some recipes back
 
